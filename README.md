@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dota Winrate Analysis
 =======
   # A Regression and Deep Learning Approach to Predictive Dota-2 Winrate Analysis
@@ -32,4 +31,3 @@
           * This project was an attempt to utilize only the drafting data to predict which team would win. While including XPM, GPM, and other related statistics would be extremely useful in predicting the winning team, it would be dependent on data not available at the start of a game.
     5. How many games do I need to achieve the best accuracy possible?
           * In this project I utilized around 6k matches. To consistently achieve a “high” accuracy up to a million matches would have to be analyzed. Organizations such as Dotabuff and OpenDota utilize this amount of data and are able to consistently predict match outcomes.
->>>>>>> f8ed1965bf97eea096741b2b60ceb433dfea29ce
